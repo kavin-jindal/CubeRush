@@ -1,4 +1,4 @@
-# CubeRush (beta Access)
+# CubeRush (early access)
 CubeRush is a 3d game made in Unity3d. 
 
 # Download
