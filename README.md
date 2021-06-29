@@ -3,7 +3,7 @@ CubeRush is a 3d game made in Unity3d.
 
 # Download
 
---> You can either download the zip file from above or you can download the game from itch.io
+--> Download the game from itch.io - link below
 
 [Download CubeRush from itch.io](https://kavinjindal.itch.io/cuberush)
 
